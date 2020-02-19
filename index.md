@@ -12,7 +12,9 @@ Syntax highlighted code block
 # Header 1
 ## Header 2
 ### Header 3
+
 if i just type some words it will show as a regular pharagraph
+
 - Bulleted
 - List
 
