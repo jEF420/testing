@@ -1,5 +1,7 @@
 <link rel="stylesheet" type="text/css" href="style.css">
+
 <div class="red"></div>
+
 You can use the [editor on GitHub](https://github.com/jEF420/testing/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 ```markdown
