@@ -21,3 +21,4 @@ if i just type some words it will show as a regular pharagraph
 
 [Link](url) and ![Image](src)
 ```
+<div class="footer"> &copy; footer text </div>
