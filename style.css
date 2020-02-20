@@ -5,3 +5,8 @@ background-color: green;
 color: red;
 fontt-size: 20px;
 }
+.red{
+background-color: red;
+  width: auto;
+  height: 50px;
+}
